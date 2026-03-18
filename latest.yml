@@ -1,8 +1,8 @@
 version: 1.3.0
 files:
   - url: CoBuddy-Setup-1.3.0.exe
-    sha512: vYIh07s3zD2merMp8UaAXJXjXYvBImZ29yTa3cFiOjFyo8gzIARvvc5OffI/DMXou0y3L1OizMZvFjP9GNyQNA==
-    size: 96518705
+    sha512: kdqDgUr4Y/0NSzWrGMJOc6gZaM1civYjg81XF6N5K0c20wykwMtv1Qtbz6CASpHKldL0SIBHRLAFGLWQ7Y8HCg==
+    size: 96517368
 path: CoBuddy-Setup-1.3.0.exe
-sha512: vYIh07s3zD2merMp8UaAXJXjXYvBImZ29yTa3cFiOjFyo8gzIARvvc5OffI/DMXou0y3L1OizMZvFjP9GNyQNA==
-releaseDate: '2026-03-18T23:14:44.860Z'
+sha512: kdqDgUr4Y/0NSzWrGMJOc6gZaM1civYjg81XF6N5K0c20wykwMtv1Qtbz6CASpHKldL0SIBHRLAFGLWQ7Y8HCg==
+releaseDate: '2026-03-18T23:20:18.399Z'
